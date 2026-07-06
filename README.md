@@ -12,51 +12,20 @@
 
 # 🚀 About Me
 
-```javascript
-const hariharan = {
-    name: "Hariharan N",
-    location: "Tamil Nadu 🇮🇳",
-    education: "B.E Computer Science Engineering",
-    role: "Full Stack Developer",
-    company: "HM STRATA WEBWORKS",
+## 🚀 About Me
 
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Next.js",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "MongoDB"
-    ],
-
-    programming: [
-        "Java",
-        "Python",
-        "JavaScript"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman",
-        "Vercel"
-    ],
-
-    currentlyLearning: [
-        "AWS",
-        "Docker",
-        "System Design"
-    ]
-}
-```
-
+| 👤 | Information |
+|------|-------------|
+| **Name** | Hariharan N |
+| **Role** | Full Stack Developer |
+| **Company** | HM STRATA WEBWORKS |
+| **Education** | B.E Computer Science Engineering |
+| **Location** | Tamil Nadu, India 🇮🇳 |
+| **Languages** | Java, Python, JavaScript |
+| **Frontend** | HTML, CSS, React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, MongoDB |
+| **Tools** | Git, GitHub, VS Code, Postman |
+| **Learning** | AWS, Docker, System Design |
 ---
 
 # 🌐 Connect With Me
