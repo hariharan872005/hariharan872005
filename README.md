@@ -1,23 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hariharan%20N&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Hariharan%20N&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Hariharan+N;💻+Full+Stack+Developer;⚡+Next.js+%7C+Node.js+Developer;🚀+MERN+Stack+Developer;🌐+Founder+of+HM+STRATA+WEBWORKS;❤️+Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi+I'm+Hariharan+N;💻+Full+Stack+Developer;⚡+MERN+Stack+Developer;🚀+Next.js+Developer;🌐+Founder+of+HM+STRATA+WEBWORKS;❤️+Always+Learning+New+Things"/>
 
-<img src="https://komarev.com/ghpvc/?username=hariharan872005&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=hariharan872005&style=for-the-badge&color=blue" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
 ```javascript
-const Hariharan = {
-    location: "Tamil Nadu, India 🇮🇳",
+const hariharan = {
+    name: "Hariharan N",
+    location: "Tamil Nadu 🇮🇳",
     education: "B.E Computer Science Engineering",
     role: "Full Stack Developer",
     company: "HM STRATA WEBWORKS",
+
     frontend: [
         "HTML",
         "CSS",
@@ -26,16 +28,19 @@ const Hariharan = {
         "Next.js",
         "Tailwind CSS"
     ],
+
     backend: [
         "Node.js",
         "Express.js",
         "MongoDB"
     ],
-    languages: [
+
+    programming: [
         "Java",
         "Python",
         "JavaScript"
     ],
+
     tools: [
         "Git",
         "GitHub",
@@ -43,11 +48,11 @@ const Hariharan = {
         "Postman",
         "Vercel"
     ],
-    hobbies: [
-        "Coding",
-        "Badminton",
-        "UI Design",
-        "Learning New Technologies"
+
+    currentlyLearning: [
+        "AWS",
+        "Docker",
+        "System Design"
     ]
 }
 ```
@@ -59,54 +64,54 @@ const Hariharan = {
 <p align="center">
 
 <a href="mailto:hariharannarayanan08@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 <a href="https://github.com/hariharan872005">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <a href="https://linkedin.com/in/hariharan-n-0439a02a7">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="https://instagram.com/whotf._.harx">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
 
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
+
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,c"/>
-
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel"/>
 
 </div>
 
 ---
 
-# ⚡ GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariharan872005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariharan872005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan872005&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -128,7 +133,7 @@ const Hariharan = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan872005&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan872005&theme=tokyo-night"/>
 
 </div>
 
@@ -138,36 +143,13 @@ const Hariharan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hariharan872005&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hariharan872005&theme=algolia&row=2&column=4&no-frame=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hariharan872005/hariharan872005/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **⚠️ Note:** The snake animation requires a GitHub Action to generate automatically.
-
----
-
-# 💻 Current Focus
-
-- 🌐 Building Modern Web Applications
-- ⚡ Next.js Development
-- 🚀 MERN Stack Projects
-- 🎨 UI/UX Improvements
-- ☁️ Cloud Deployment
-- 📱 Responsive Web Design
-
----
-
-# 📊 Coding Activity
+# 📊 Profile Summary
 
 <div align="center">
 
@@ -177,11 +159,11 @@ const Hariharan = {
 
 ---
 
-# 🧠 Quote of the Day
+# 💡 Quote
 
 <div align="center">
 
-> **"Code. Learn. Build. Repeat. Every project is another step toward mastery."**
+> **"Code. Learn. Build. Repeat."**
 
 </div>
 
@@ -191,7 +173,7 @@ const Hariharan = {
 
 <div align="center">
 
-If you like my projects, consider giving them a ⭐
+If you like my work, don't forget to ⭐ my repositories.
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
@@ -201,10 +183,8 @@ If you like my projects, consider giving them a ⭐
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
-### 🚀 Thanks for visiting my GitHub Profile!
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Happy+Coding!;See+You+Again!;Let's+Build+Something+Amazing!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&width=450&lines=Thanks+for+visiting!;Happy+Coding!;See+you+again!"/>
 
 </div>
