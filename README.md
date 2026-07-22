@@ -95,6 +95,10 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=hariharan872005&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15"/>
 
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan872005&theme=tokyo-night&hide_border=true&area=true"/>
+
 </div>
 
 <br/>
