@@ -1,14 +1,18 @@
 <div align="center">
 
 # Hariharan N
-### Full Stack Developer · MERN & Next.js
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Founder+of+HM+STRATA+WEBWORKS"/>
 
 <br/>
 
-<a href="mailto:hariharannarayanan08@gmail.com"><img src="https://img.shields.io/badge/Email-hariharannarayanan08%40gmail.com-2C5364?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/hariharan-n-0439a02a7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/hariharan872005"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=hariharan872005&style=flat-square&color=2C5364&label=Profile+Views"/>
+<a href="mailto:hariharannarayanan08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hariharan-n-0439a02a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/hariharan872005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=hariharan872005&style=for-the-badge&color=2C5364&label=Profile+Views"/>
 
 </div>
 
