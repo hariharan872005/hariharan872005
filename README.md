@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Hariharan%20N&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=65&descSize=16"/>
+# Hariharan N
+### Full Stack Developer · MERN & Next.js
 
 <br/>
 
@@ -105,55 +106,8 @@
 
 </div>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>        <li>🎧 <strong>Fun Fact:</strong> When I'm not writing code, I'm mixing tracks as a professional DJ!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <!-- Cool Coding GIF -->
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/04de2e31120256.56475f12fb7b6.gif" width="100%" alt="Coding Animation" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
-</div>
-
 ---
 
-<!-- Tech Stack -->
-## ⚡ Technologies & Tools
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,figma,vercel&perline=9" alt="Tech Stack" />
-  </a>
-</div>
-
-<br/>
-
----
-
-<!-- GitHub Graphs & Analytics -->
-## 📈 GitHub Analytics
-
-<div align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=hariharan872005&theme=tokyonight&hide_border=true&background=1a1b27" width="60%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Massive Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan872005&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=00f7ff&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <p><em>If you like my work, don't forget to ⭐ my repositories!</em></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" alt="Footer" />
+<sub>Built with care · Last updated 2026</sub>
 </div>
