@@ -9,7 +9,7 @@
 
 <br/>
 
-<!-- Socials -->
+<!-- Socials & Views -->
 <div align="center">
   <a href="https://linkedin.com/in/hariharan-n-0439a02a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/hariharan872005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -17,11 +17,15 @@
   <a href="https://instagram.com/whotf._.harx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hariharan872005&label=Profile%20Views&color=0e122b&style=for-the-badge" alt="visitor badge"/>
+</div>
+
 <br/>
 
 ---
 
-<!-- About Me -->
+<!-- About Me with GIF -->
 ## 👨‍💻 About Me
 
 <div align="center">
@@ -38,7 +42,8 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hariharan872005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" width="100%" alt="GitHub Stats" />
+      <!-- Cool Coding GIF -->
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/04de2e31120256.56475f12fb7b6.gif" width="100%" alt="Coding Animation" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
@@ -59,13 +64,12 @@
 
 ---
 
-<!-- GitHub Graphs & Analytics -->
-## 📈 GitHub Analytics & Graphs
+<!-- GitHub Graphs, Analytics & Fun Extras -->
+## 📈 GitHub Analytics & Fun
 
 <div align="center">
-  <!-- GitHub Streak (Using Stable Demolab) -->
-  <img src="https://streak-stats.demolab.com?user=hariharan872005&theme=tokyonight&hide_border=true&background=1a1b27" width="48%" alt="GitHub Streak" />
-  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hariharan872005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" width="48%" alt="GitHub Stats" />
   <!-- Top Languages Graph -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan872005&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" alt="Top Languages" />
 </div>
@@ -73,8 +77,10 @@
 <br/>
 
 <div align="center">
-  <!-- Profile Summary Graph Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariharan872005&theme=tokyonight" width="100%" alt="Profile Summary Graph" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=hariharan872005&theme=tokyonight&hide_border=true&background=1a1b27" width="48%" alt="GitHub Streak" />
+  <!-- Developer Joke Card -->
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" width="48%" alt="Joke Card" />
 </div>
 
 <br/>
@@ -82,6 +88,13 @@
 <div align="center">
   <!-- Massive Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan872005&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=00f7ff&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Profile Summary Graph Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariharan872005&theme=tokyonight" width="100%" alt="Profile Summary Graph" />
 </div>
 
 <br/>
