@@ -29,10 +29,11 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 I'm an Information Technology student at <strong>Prince Shri Venkateshwara Padmavathy Engineering College</strong>.</li>
-        <li>💻 My primary focus and passion is <strong>web development</strong>, where I build seamless, dynamic, and responsive applications.</li>
-        <li>🌐 I am the founder of <strong>HM STRATA WEBWORKS</strong>.</li>
-        <li>🌱 Currently deepening my knowledge in <strong>AWS, Docker, and System Design</strong>.</li>
+        <li>🎓 Information Technology student at <strong>Prince Shri Venkateshwara Padmavathy Engineering College</strong>.</li>
+        <li>💻 Passionate about <strong>web development</strong>, currently building seamless, dynamic applications.</li>
+        <li>🌐 Founder of <strong>HM STRATA WEBWORKS</strong>.</li>
+        <li>⚙️ Consistently practicing <strong>Python algorithms and data structures</strong>.</li>
+        <li>💻 Thrives in <strong>macOS and Linux environments</strong> for software development.</li>
         <li>🎧 <strong>Fun Fact:</strong> When I'm not writing code, I'm mixing tracks as a professional DJ!</li>
       </ul>
     </td>
@@ -58,30 +59,39 @@
 
 ---
 
-<!-- Analytics -->
-## 📈 GitHub Analytics
+<!-- GitHub Graphs & Analytics -->
+## 📈 GitHub Analytics & Graphs
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan872005&theme=tokyonight&hide_border=true&background=1a1b27" width="48%" alt="Streak" />
+  <!-- GitHub Streak (Using Stable Demolab) -->
+  <img src="https://streak-stats.demolab.com?user=hariharan872005&theme=tokyonight&hide_border=true&background=1a1b27" width="48%" alt="GitHub Streak" />
+  
+  <!-- Top Languages Graph -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan872005&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hariharan872005&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" width="100%" alt="Trophies" />
+  <!-- Profile Summary Graph Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariharan872005&theme=tokyonight" width="100%" alt="Profile Summary Graph" />
 </div>
 
----
-
-<!-- Activity Graph -->
-## 🌌 Contribution Activity
+<br/>
 
 <div align="center">
+  <!-- Massive Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan872005&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=00f7ff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=hariharan872005&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" width="100%" alt="Trophies" />
+</div>
+
+---
 
 <!-- Footer -->
 <div align="center">
