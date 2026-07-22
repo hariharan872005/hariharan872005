@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hariharan N
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2C5364,100:0F2027&height=200&section=header&text=Hariharan%20N&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Founder+of+HM+STRATA+WEBWORKS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Founder+of+HM+STRATA+WEBWORKS"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hariharan872005&style=for-the-badge&color=2C5364&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=hariharan872005&style=for-the-badge&color=00F7FF&label=Profile+Views"/>
 
 </div>
 
