@@ -1,94 +1,90 @@
+<!-- Header Section -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Hariharan%20N&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi+I'm+Hariharan+N;💻+Full+Stack+Developer;⚡+MERN+Stack+Developer;🚀+Next.js+Developer;🌐+Founder+of+HM+STRATA+WEBWORKS;❤️+Always+Learning+New+Things"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=hariharan872005&style=for-the-badge&color=blue" alt="Profile Views" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hariharan%20N&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=00f7ff" alt="Header" />
 </div>
 
----
-
-## 🚀 About Me
-
-Hello! I'm a passionate **Full Stack Developer** based in Tamil Nadu, India 🇮🇳. I am the Founder of **HM STRATA WEBWORKS**, specializing in building dynamic, responsive web applications. 
-
-- 🎓 **Education:** Pursuing B.E. in Computer Science Engineering.
-- 💡 **Currently Learning:** Deep diving into AWS, Docker, and System Design.
-- 💬 **Ask me about:** MERN stack, Next.js, and modern frontend architecture.
-- 📫 **Reach me at:** [hariharannarayanan08@gmail.com](mailto:hariharannarayanan08@gmail.com)
-
----
-
-## 💻 Tech Stack
-
 <div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" /><br/><br/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" /><br/><br/>
-
-**Backend & Database**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/><br/>
-
-**Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hariharan872005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan872005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+💻;MERN+Stack+Enthusiast+⚡;Founder+of+HM+STRATA+WEBWORKS+🌐;Professional+DJ+🎧" alt="Typing SVG" />
 </div>
 
 <br/>
 
+<!-- Socials -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hariharan872005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://linkedin.com/in/hariharan-n-0439a02a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/hariharan872005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:hariharannarayanan08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://instagram.com/whotf._.harx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
 <br/>
 
+---
+
+<!-- About Me -->
+## 👨‍💻 About Me
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hariharan872005&theme=algolia&row=1&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 I'm an Information Technology student at <strong>Prince Shri Venkateshwara Padmavathy Engineering College</strong>.</li>
+        <li>💻 My primary focus and passion is <strong>web development</strong>, where I build seamless, dynamic, and responsive applications.</li>
+        <li>🌐 I am the founder of <strong>HM STRATA WEBWORKS</strong>.</li>
+        <li>🌱 Currently deepening my knowledge in <strong>AWS, Docker, and System Design</strong>.</li>
+        <li>🎧 <strong>Fun Fact:</strong> When I'm not writing code, I'm mixing tracks as a professional DJ!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hariharan872005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" width="100%" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- Tech Stack -->
+## ⚡ Technologies & Tools
 
 <div align="center">
-  <a href="mailto:hariharannarayanan08@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email" /></a>
-  <a href="https://github.com/hariharan872005"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/hariharan-n-0439a02a7"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/whotf._.harx"><img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,figma,vercel&perline=9" alt="Tech Stack" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<!-- Analytics -->
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan872005&theme=tokyonight&hide_border=true&background=1a1b27" width="48%" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan872005&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hariharan872005&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" width="100%" alt="Trophies" />
 </div>
 
 ---
 
+<!-- Activity Graph -->
+## 🌌 Contribution Activity
+
 <div align="center">
-
-> **"Code. Learn. Build. Repeat."**
-
-<br/>
-
-*If you like my work, don't forget to ⭐ my repositories!*
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan872005&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=00f7ff&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
 <br/>
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00F7FF&center=true&width=450&lines=Thanks+for+visiting!;Happy+Coding!;See+you+again!"/>
-
+<!-- Footer -->
+<div align="center">
+  <p><em>If you like my work, don't forget to ⭐ my repositories!</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer" alt="Footer" />
 </div>
