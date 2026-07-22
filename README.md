@@ -64,23 +64,12 @@
 
 ---
 
-<!-- GitHub Graphs, Analytics & Fun Extras -->
-## 📈 GitHub Analytics & Fun
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharan872005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" width="48%" alt="GitHub Stats" />
-  <!-- Top Languages Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan872005&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
+<!-- GitHub Graphs & Analytics -->
+## 📈 GitHub Analytics
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=hariharan872005&theme=tokyonight&hide_border=true&background=1a1b27" width="48%" alt="GitHub Streak" />
-  <!-- Developer Joke Card -->
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" width="48%" alt="Joke Card" />
+  <img src="https://streak-stats.demolab.com?user=hariharan872005&theme=tokyonight&hide_border=true&background=1a1b27" width="60%" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -91,18 +80,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <!-- Profile Summary Graph Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariharan872005&theme=tokyonight" width="100%" alt="Profile Summary Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hariharan872005&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" width="100%" alt="Trophies" />
-</div>
 
 ---
 
